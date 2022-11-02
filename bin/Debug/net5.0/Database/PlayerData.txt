@@ -1,0 +1,1 @@
+{"name":"\uD50C\uB808\uC774\uC5B4 1004","level":24,"gold":123132,"position":{"x":10,"y":20}}
